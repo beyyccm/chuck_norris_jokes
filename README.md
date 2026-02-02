@@ -30,7 +30,9 @@ Bu proje, **Chuck Norris Joke API** kullanarak rastgele şaka gösteren basit bi
    - `https://KULLANICI_ADI.github.io/REPO_ADI/`
 
 ### Canlı Site
-[chuck_norris_jokes][(https://beyyccm.github.io/chuck_norris_jokes/)]
+### Canlı Site
+[chuck_norris_jokes](https://beyyccm.github.io/chuck_norris_jokes/)
+
 
 
 ### Proje Ekran Görüntüsü
